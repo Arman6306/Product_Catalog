@@ -1,0 +1,37 @@
+body {
+    font-family: "Comic Sans MS", "Comic Sans";
+    text-align: center;
+    margin: 0;
+    background: linear-gradient(to right, lightblue, lightpink);
+    color: #333;
+}
+
+h1 {
+    color: #6baed6;
+}
+
+h2 {
+    color: #d98bb3;
+}
+
+a {
+    color: #6baed6;
+    margin: 10px;
+}
+
+.product {
+    background: rgba(255, 255, 255, 0.7);
+    width: 350px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.product h3 {
+    color: #d98bb3;
+}
+
+.product p {
+    color: #6baed6;
+}
